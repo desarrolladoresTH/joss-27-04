@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    background-color: rgb(238, 148, 64);
+    font-size: x-large;
+    font-weight: bold;
+}
+nav{
+    text-align: center;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 20px ;
+    
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    
+}
+body{
+    background-color: rgb(25, 125, 218);
+}
